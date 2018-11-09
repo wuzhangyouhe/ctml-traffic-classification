@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ff2129a-2980-4f71-8b6c-d111a0b02cc3" name="Default" comment="Beta Version release">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/ML_project.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="1-parse-data.py" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/chooosie-deals-intelligent-system/1-parse-data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>coef</find>
+      <find>dataset</find>
+      <find>,,</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="macbook" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cpu_price/models.py" />
+        <option value="$PROJECT_DIR$/cpu_price/urls.py" />
+        <option value="$PROJECT_DIR$/cpu_price/views.py" />
+        <option value="$PROJECT_DIR$/ML_project_PG15/urls.py" />
+        <option value="$PROJECT_DIR$/ML_project_PG15/cpu_price/models.py" />
+        <option value="$PROJECT_DIR$/ML_project_PG15/static/custom/ml.js" />
+        <option value="$PROJECT_DIR$/LT_practice_code/linear_regression/demo_data.csv" />
+        <option value="$PROJECT_DIR$/LT_practice_code/linear_regression/demo_price.csv" />
+        <option value="$PROJECT_DIR$/datasets/demo_data.csv" />
+        <option value="$PROJECT_DIR$/datasets/demo_price.csv" />
+        <option value="$PROJECT_DIR$/LT_practice_code/linear_regression/server_data.csv" />
+        <option value="$PROJECT_DIR$/LT_practice_code/linear_regression/server_price.csv" />
+        <option value="$PROJECT_DIR$/LT_practice_code/linear_regression/embeded_data.csv" />
+        <option value="$PROJECT_DIR$/LT_practice_code/linear_regression/embeded_price.csv" />
+        <option value="$PROJECT_DIR$/LT_practice_code/linear_regression/desktop_data.csv" />
+        <option value="$PROJECT_DIR$/LT_practice_code/linear_regression/desktop_price.csv" />
+        <option value="$PROJECT_DIR$/datasets/new_mobile_data.csv" />
+        <option value="$PROJECT_DIR$/datasets/new_mobile_price.csv" />
+        <option value="$PROJECT_DIR$/LT_practice_code/linear_regression/new_mobile_data.csv" />
+        <option value="$PROJECT_DIR$/LT_practice_code/linear_regression/new_mobile_price.csv" />
+        <option value="$PROJECT_DIR$/ML_project_PG15/cpu_price/views.py" />
+        <option value="$PROJECT_DIR$/ML_project_PG15/cpu_price/templates/index.html" />
+        <option value="$PROJECT_DIR$/datasets/mobile_data.csv" />
+        <option value="$PROJECT_DIR$/LT_practice_code/linear_regression/cpu_price.py" />
+        <option value="$PROJECT_DIR$/IW2018/classification/templates/index.html" />
+        <option value="$USER_HOME$/chooosie-deals-intelligent-system/1-parse-data.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1614" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CTML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CTML" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/datasets" />
+      <recent name="$PROJECT_DIR$/LT_practice_code/linear_regression" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/datasets" />
+      <recent name="$PROJECT_DIR$/LT_practice_code/linear_regression" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.1-parse-data">
+    <configuration name="1-parse-data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/chooosie-deals-intelligent-system" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ML_project" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/chooosie-deals-intelligent-system/1-parse-data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="cpu_price" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LT_practice_code/linear_regression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ML_project" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LT_practice_code/linear_regression/cpu_price.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML_project_PG15/cpu_price" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ML_project" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML_project_PG15/cpu_price/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Python.cpu_price" />
+      <item index="1" class="java.lang.String" itemvalue="Python.views" />
+      <item index="2" class="java.lang.String" itemvalue="Python.1-parse-data" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.1-parse-data" />
+        <item index="1" class="java.lang.String" itemvalue="Python.cpu_price" />
+        <item index="2" class="java.lang.String" itemvalue="Python.views" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ff2129a-2980-4f71-8b6c-d111a0b02cc3" name="Default" comment="" />
+      <created>1508664627027</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508664627027</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Standarlized the APP codes">
+      <created>1508666663422</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1508666663422</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Standarlized the APP codes">
+      <created>1508673191091</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1508673191091</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Standarlized the APP codes">
+      <created>1508673299008</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1508673299008</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Standarlized the APP codes">
+      <created>1508677069862</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1508677069862</updated>
+    </task>
+    <task id="LOCAL-00005" summary="modify models and vies">
+      <created>1508685657385</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1508685657385</updated>
+    </task>
+    <task id="LOCAL-00006" summary="modify models and views">
+      <created>1508685756675</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1508685756675</updated>
+    </task>
+    <task id="LOCAL-00007" summary="modify models and views">
+      <created>1508846180956</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1508846180956</updated>
+    </task>
+    <task id="LOCAL-00008" summary="modify models and views">
+      <created>1508847860023</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1508847860023</updated>
+    </task>
+    <task id="LOCAL-00009" summary="modify models and views">
+      <created>1508848059590</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1508848059590</updated>
+    </task>
+    <task id="LOCAL-00010" summary="modify models and views">
+      <created>1508848998785</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1508848998785</updated>
+    </task>
+    <task id="LOCAL-00011" summary="modify models and views">
+      <created>1508883953331</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1508883953331</updated>
+    </task>
+    <task id="LOCAL-00012" summary="modify models and views">
+      <created>1508884709043</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1508884709044</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Modify on view, clean up some unavailable code">
+      <created>1508885171847</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1508885171847</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Modify on view, clean up some unavailable code">
+      <created>1508885535935</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1508885535935</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Modify on view, clean up some unavailable code">
+      <created>1508886617240</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1508886617240</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Fix RMSE">
+      <created>1508887388185</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1508887388185</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Modified Datasets">
+      <created>1508889166208</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1508889166208</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Modified Datasets">
+      <created>1508942741953</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1508942741953</updated>
+    </task>
+    <task id="LOCAL-00019" summary="add another header dataset form">
+      <created>1508943732345</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1508943732345</updated>
+    </task>
+    <task id="LOCAL-00020" summary="add another header dataset form">
+      <created>1508979410174</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1508979410174</updated>
+    </task>
+    <task id="LOCAL-00021" summary="add another header dataset form">
+      <created>1509121638282</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1509121638282</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Predict button problem">
+      <created>1509122084643</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1509122084643</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Solved all problem in first prototyping">
+      <created>1509122619170</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1509122619170</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Add random split dataset codes in">
+      <created>1509153742540</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1509153742540</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Add random split dataset codes in">
+      <created>1509158229436</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1509158229436</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Add random split dataset codes in">
+      <created>1509159234885</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1509159234885</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Modify metric as R2 score">
+      <created>1509252060220</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1509252060220</updated>
+    </task>
+    <task id="LOCAL-00028" summary="impove split">
+      <created>1509255816720</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1509255816720</updated>
+    </task>
+    <task id="LOCAL-00029" summary="impove split">
+      <created>1509256329629</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1509256329629</updated>
+    </task>
+    <task id="LOCAL-00030" summary="new dataset">
+      <created>1509262843364</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1509262843364</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Beta Version release">
+      <created>1509263368188</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1509263368188</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Beta Version release">
+      <created>1509273813691</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1509273813691</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1614" height="1027" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21561338" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6774869" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2764398" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Standarlized the APP codes" />
+    <MESSAGE value="modify models and vies" />
+    <MESSAGE value="modify models and views" />
+    <MESSAGE value="Modify on view, clean up some unavailable code" />
+    <MESSAGE value="Fix RMSE" />
+    <MESSAGE value="Modified Datasets" />
+    <MESSAGE value="add another header dataset form" />
+    <MESSAGE value="Predict button problem" />
+    <MESSAGE value="Solved all problem in first prototyping" />
+    <MESSAGE value="Add random split dataset codes in" />
+    <MESSAGE value="Modify metric as R2 score" />
+    <MESSAGE value="impove split" />
+    <MESSAGE value="new dataset" />
+    <MESSAGE value="Beta Version release" />
+    <option name="LAST_COMMIT_MESSAGE" value="Beta Version release" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/LT_practice_code/linear_regression/cpu_price.py" />
+    <entry file="file://$PROJECT_DIR$/ML_project_PG15/views.py" />
+    <entry file="file://$PROJECT_DIR$/cpu_price/apps.py" />
+    <entry file="file://$PROJECT_DIR$/cpu_price/models.py" />
+    <entry file="file://$PROJECT_DIR$/cpu_price/templates/cpu_price/index.html" />
+    <entry file="file://$PROJECT_DIR$/cpu_price/templates/index.html" />
+    <entry file="file://$PROJECT_DIR$/../ML-practise/linear_regression/cpu_price.py" />
+    <entry file="file://$PROJECT_DIR$/cpu_price/urls.py" />
+    <entry file="file://$PROJECT_DIR$/cpu_price/views.py" />
+    <entry file="file://$PROJECT_DIR$/ML_project_PG15/cpu_price/templates/index(backup).html" />
+    <entry file="file://$PROJECT_DIR$/datasets/all_CPU_dataset.csv" />
+    <entry file="file://$PROJECT_DIR$/IW2018/classification/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IW2018/classification/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IW2018/classification/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IW2018/classification/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IW2018/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-379">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IW2018/static/jquery/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="50" lean-forward="false" selection-start-line="0" selection-start-column="50" selection-end-line="0" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IW2018/static/custom/ml.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IW2018/static/custom/ml.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="68" column="14" lean-forward="true" selection-start-line="68" selection-start-column="14" selection-end-line="68" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IW2018/classification/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/CPU_price_test.csv" />
+    <entry file="file://$PROJECT_DIR$/LT_practice_code/linear_regression/all_CPU_price.csv" />
+    <entry file="file://$PROJECT_DIR$/LT_practice_code/linear_regression/all_CPU_dataset.csv" />
+    <entry file="file://$PROJECT_DIR$/LT_practice_code/linear_regression/demo_price.csv" />
+    <entry file="file://$PROJECT_DIR$/LT_practice_code/linear_regression/mobile_cpu.csv" />
+    <entry file="file://$PROJECT_DIR$/LT_practice_code/linear_regression/mobile_price.csv" />
+    <entry file="file://$PROJECT_DIR$/datasets/demo_data.csv" />
+    <entry file="file://$PROJECT_DIR$/datasets/demo_price.csv" />
+    <entry file="file://$PROJECT_DIR$/datasets/embeded_data.csv" />
+    <entry file="file://$PROJECT_DIR$/datasets/server_data.csv" />
+    <entry file="file://$PROJECT_DIR$/datasets/desktop_data.csv" />
+    <entry file="file://$PROJECT_DIR$/datasets/desktop_price.csv" />
+    <entry file="file://$PROJECT_DIR$/datasets/embeded_price.csv" />
+    <entry file="file://$PROJECT_DIR$/datasets/server_price.csv" />
+    <entry file="file://$PROJECT_DIR$/LT_practice_code/linear_regression/demo_data.csv" />
+    <entry file="file://$PROJECT_DIR$/LT_practice_code/linear_regression/server_price.csv" />
+    <entry file="file://$PROJECT_DIR$/LT_practice_code/linear_regression/server_data.csv" />
+    <entry file="file://$PROJECT_DIR$/LT_practice_code/linear_regression/embeded_data.csv" />
+    <entry file="file://$PROJECT_DIR$/LT_practice_code/linear_regression/embeded_price.csv" />
+    <entry file="file://$PROJECT_DIR$/LT_practice_code/linear_regression/desktop_data.csv" />
+    <entry file="file://$PROJECT_DIR$/LT_practice_code/linear_regression/desktop_price.csv" />
+    <entry file="file://$PROJECT_DIR$/datasets/mobile_price.csv" />
+    <entry file="file://$PROJECT_DIR$/LT_practice_code/linear_regression/new_mobile_data.csv" />
+    <entry file="file://$PROJECT_DIR$/LT_practice_code/linear_regression/new_mobile_price.csv" />
+    <entry file="file://$PROJECT_DIR$/datasets/mobile_data.csv" />
+    <entry file="file://$PROJECT_DIR$/LT_practice_code/linear_regression/cpu_price.py" />
+    <entry file="file://$PROJECT_DIR$/IW2018/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IW2018/classification/templates/index copy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1771">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IW2018/classification/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1875">
+          <caret line="125" column="41" lean-forward="false" selection-start-line="125" selection-start-column="41" selection-end-line="125" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IW2018/classification/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2535">
+          <caret line="169" column="41" lean-forward="false" selection-start-line="169" selection-start-column="41" selection-end-line="169" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/chooosie-deals-intelligent-system/1-parse-data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
